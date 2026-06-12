@@ -160,7 +160,7 @@ The Kibana dashboard provides:
 
 Dashboard screenshot:
 
-![Dashboard](docs/dashboard.png)
+![Dashboard](screenshots/kibana_elasticsearch_dashboard.png)
 
 ## Dataset
 
